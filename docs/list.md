@@ -136,12 +136,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **ClueLess**
 
-- **Swag**: Certificate for Contributing, T-shirt 
-- **Requirements**: 
-    - All contributors will receive certificate for contributing.
-    - Top Contributor will get Exclusive t-shirts for free.
-- **How to sign up**: Check out the issues [here](https://github.com/Clueless-Community/first-contribution){:target="\_blank"}
-- **Notes**: For more info click [here](https://www.clueless.tech/hacktoberfest#)
+- **Swag**: Certificate for Contributing, T-shirt
+- **Requirements**:
+    - All contributors will receive certificates for contributing.
+    - Top Contributors will get Exclusive t-shirts for free.
+- **How to sign up**: Check out the [ClueLess Website](https://www.clueless.tech/hacktoberfest#) 
+- **Issues**: Listed Projects:
+    - [Clueless Community Website](https://github.com/Clueless-Community/clueless-official-website): This is Clueless official website where you can make your developer profile as well as meet new people across the world.{:target="\_blank"}
+    - [First-Contribution](https://github.com/Clueless-Community/first-contribution): A repo where you can make your first contribution and get a contributors card in our website.
+    - [College API](https://github.com/Clueless-Community/collegeAPI): An API that helps you to fetch colleges and their details.
+    - [Prega.io](https://github.com/Clueless-Community/Prega): A medical documents handling app made in flutter for pregnant women.
+    - [Datasets](https://github.com/Clueless-Community/Datasets): Collection of useful datasets.
+- **Notes**: Join the [Discord](https://discord.gg/zrVMjGW8sB) channel.
 
 #### **Codedamn**
 
